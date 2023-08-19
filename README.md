@@ -6,7 +6,7 @@
 <h2 align="left"> Developer. Traveler. Artist </h2>
 
 <!-- ABOUT ME -->
-<p>I'm a software engineering student at Western Governors University, set to graduate in 2024. With a passion for both art and code, I find joy in crafting digital solutions and constantly learning. Based just an hour east of Houston, I'm always eager to collaborate with fellow creatives on exciting projects. When I'm not immersed in technology, I'm likely buried in a good book, appreciating art, or exploring new places. Let's connect on LinkedIn or through email and embark on a journey of innovation and creativity together! 🚀🎨👩‍💻</p>
+<p>I'm a software engineering student at Western Governors University, set to graduate in 2024. With a passion for both art and code, I find joy in crafting digital solutions and constantly learning. Based just an hour east of Houston, I'm always eager to collaborate with other creative minds on exciting projects. When I'm not immersed in technology, I'm likely buried in a good book, appreciating art, or exploring new places. Let's connect on LinkedIn or through email and embark on a journey of innovation and creativity together! 🚀🎨👩‍💻</p>
 <!-- UNORDERED LIST ABOUT ME || UPDATE AS NEEDED -->
 <div>
 <ul>

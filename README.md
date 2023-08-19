@@ -17,10 +17,6 @@
   <li> 👩🏼‍💻 I can be reached via <a href="mailto:monica.mrez@gmail.com" target="_blank">reach me via email</a> and on <a href="https://www.linkedin.com/in/monica-nieckula/" target="_blank">LinkedIn</a>.</li>
 </ul>
 </div>
-<p>Follow me on Twitter:</p>
-<a href="https://twitter.com/Em_resenDEV" target="_blank" style="text-decoration: none; background-color: #1DA1F2; color: white; border-radius: 5px; padding: 10px 15px; display: inline-block; transition: background-color 0.2s;">
-  <img src="https://img.icons8.com/color/48/000000/twitter-circled.png" width="16" height="16" style="vertical-align: middle;" />&nbsp;Follow @ Em_resenDEV
-</a>
 
 <br>
 <!-- PROGRAMMING LANGUAGES AND TOOLS -->
@@ -51,7 +47,7 @@
 </div>
 <br>
 
-<!-- GITHUB STATS CALCULATOR -->
+<!-- GITHUB STATS CALCULATORS -->
 <div align='center'>
 
 ### :fire: My Stats :

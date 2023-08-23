@@ -45,13 +45,3 @@
   <!-- AWS -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
 </div>
-<br>
-
-<!-- GITHUB STATS CALCULATORS -->
-<div align='center'>
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=emresenDEV&theme=dark)](https://git.io/streak-stats)
-<br>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emresenDEV&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

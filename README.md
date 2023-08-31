@@ -21,7 +21,7 @@
 <br>
 <!-- PROGRAMMING LANGUAGES AND TOOLS -->
 <h2>🛠️ Skills</h2>
-<p>My toolbox includes a palette of languages, including HTML, CSS, JavaScript, Python, and SQL. These languages allow me to sculpt interactive and dynamic digital landscapes. Currently, I'm further enriching my skill set by delving deeper into Python and Java, which I believe will open doors to even more innovative projects and collaborations.</p>
+<p>My toolbox includes a palette of languages, including HTML, CSS, JavaScript, Python, Java, and SQL. These languages allow me to sculpt interactive and dynamic digital landscapes. Currently, I'm further enriching my skill set by delving deeper into Python and Java, which I believe will open doors to even more innovative projects and collaborations.</p>
 <br>
 <div style="display: flex; justify-content: center;">
   <!-- HTML -->
@@ -44,4 +44,22 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <!-- AWS -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+
+<!-- Certifications -->
+<h2>🎓 Certifications</h2>
+<div style="display: flex; justify-content: center;">
+  <!-- AWS -->
+  <h3>AWS Certified Cloud Practitioner</h3>
+  <p> Issued: August 25, 2023. Expires: August 25, 2026 </p>
+  <p>Validation Number: 5405HY6K41R41SGT</p>
+
+  <!-- ITIL4 -->
+  <h3>ITIL 4 Foundation</h3>
+  <p> Issued: August 2023 </p>
+  <p>Validation Number: 9980042994480401</p>
+
+  <!-- CompTIA Project + -->
+  <!--<h3>CompTIA Project+</h3>
+  <p> Issued: September XX, 2023. Expires: </p>
+  <p>Validation Number: </p> -->
 </div>

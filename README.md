@@ -59,7 +59,8 @@
   <p>Validation Number: 9980042994480401</p>
 
   <!-- CompTIA Project + -->
-  <!--<h3>CompTIA Project+</h3>
-  <p> Issued: September XX, 2023. Expires: </p>
-  <p>Validation Number: </p> -->
+  <h3>CompTIA Project+</h3>
+  <p> Issued: October 9, 2023 </p>
+  <p>Validation Number: WR83F0B6C1VEQN5G </p>
+  
 </div>

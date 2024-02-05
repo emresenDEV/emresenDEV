@@ -50,17 +50,18 @@
 <div style="display: flex; justify-content: center;">
   <!-- AWS -->
   <h3>AWS Certified Cloud Practitioner</h3>
-  <p> Issued: August 25, 2023. Expires: August 25, 2026 </p>
-  <p>Validation Number: 5405HY6K41R41SGT</p>
+  <p> Issued: August 25, 2023 </p>
+  <p> Expires: August 25, 2026 </p>
+  <p> Validation Number: 5405HY6K41R41SGT </p>
 
   <!-- ITIL4 -->
   <h3>ITIL 4 Foundation</h3>
   <p> Issued: August 2023 </p>
-  <p>Validation Number: 9980042994480401</p>
+  <p> Validation Number: 9980042994480401 </p>
 
   <!-- CompTIA Project + -->
   <h3>CompTIA Project+</h3>
   <p> Issued: October 9, 2023 </p>
-  <p>Validation Number: WR83F0B6C1VEQN5G </p>
+  <p> Validation Number: WR83F0B6C1VEQN5G </p>
   
 </div>

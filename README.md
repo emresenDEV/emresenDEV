@@ -10,18 +10,18 @@
 <!-- UNORDERED LIST ABOUT ME || UPDATE AS NEEDED -->
 <div>
 <ul>
-  <li> 🌎 I'm based just east of Houston, Texas, USA</li>
-  <li> 🎓 I’m working on my bachelor's in software engineering and plan to graduate in 2024. </li>
+  <li> 🌎 Houston, Texas, USA</li>
+  <li> 🎓 Software Engineering, BS </li>
   <li> 🧠 I’m currently learning Python.</li>
   <li> 🤝 I’m open to collaborating on projects.</li>
-  <li> 👩🏼‍💻 I can be reached via <a href="mailto:monica.mrez@gmail.com" target="_blank">reach me via email</a> and on <a href="https://www.linkedin.com/in/monica-nieckula/" target="_blank">LinkedIn</a>.</li>
+  <li> 👩🏼‍💻 I can be reached via <a href="mailto:monica.mrez@gmail.com" target="_blank">email</a> and on <a href="https://www.linkedin.com/in/monica-nieckula/" target="_blank">LinkedIn</a>.</li>
 </ul>
 </div>
 
 <br>
 <!-- PROGRAMMING LANGUAGES AND TOOLS -->
 <h2>🛠️ Skills</h2>
-<p>My toolbox includes a palette of languages, including HTML, CSS, JavaScript, Python, Java, and SQL. These languages allow me to sculpt interactive and dynamic digital landscapes. Currently, I'm further enriching my skill set by delving deeper into Python and Java, which I believe will open doors to even more innovative projects and collaborations.</p>
+<p>My toolbox includes a palette of languages, including HTML, CSS, JavaScript, Python, Java, and SQL. These languages allow me to sculpt interactive and dynamic digital landscapes.</p>
 <br>
 <div style="display: flex; justify-content: center;">
   <!-- HTML -->
